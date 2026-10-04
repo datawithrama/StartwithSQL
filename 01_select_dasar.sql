@@ -9,3 +9,4 @@ SELECT nama, posisi, gaji
 FROM karyawan 
 WHERE departemen = 'IT' AND gaji > 7000000;
 -- data
+-- da
